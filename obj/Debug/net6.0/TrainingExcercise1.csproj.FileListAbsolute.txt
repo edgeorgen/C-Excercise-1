@@ -1,0 +1,15 @@
+C:\Users\edgeo\source\repos\TrainingExcercise1\bin\Debug\net6.0\TrainingExcercise1.exe
+C:\Users\edgeo\source\repos\TrainingExcercise1\bin\Debug\net6.0\TrainingExcercise1.deps.json
+C:\Users\edgeo\source\repos\TrainingExcercise1\bin\Debug\net6.0\TrainingExcercise1.runtimeconfig.json
+C:\Users\edgeo\source\repos\TrainingExcercise1\bin\Debug\net6.0\TrainingExcercise1.dll
+C:\Users\edgeo\source\repos\TrainingExcercise1\bin\Debug\net6.0\ref\TrainingExcercise1.dll
+C:\Users\edgeo\source\repos\TrainingExcercise1\bin\Debug\net6.0\TrainingExcercise1.pdb
+C:\Users\edgeo\source\repos\TrainingExcercise1\obj\Debug\net6.0\TrainingExcercise1.csproj.AssemblyReference.cache
+C:\Users\edgeo\source\repos\TrainingExcercise1\obj\Debug\net6.0\TrainingExcercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgeo\source\repos\TrainingExcercise1\obj\Debug\net6.0\TrainingExcercise1.AssemblyInfoInputs.cache
+C:\Users\edgeo\source\repos\TrainingExcercise1\obj\Debug\net6.0\TrainingExcercise1.AssemblyInfo.cs
+C:\Users\edgeo\source\repos\TrainingExcercise1\obj\Debug\net6.0\TrainingExcercise1.csproj.CoreCompileInputs.cache
+C:\Users\edgeo\source\repos\TrainingExcercise1\obj\Debug\net6.0\TrainingExcercise1.dll
+C:\Users\edgeo\source\repos\TrainingExcercise1\obj\Debug\net6.0\ref\TrainingExcercise1.dll
+C:\Users\edgeo\source\repos\TrainingExcercise1\obj\Debug\net6.0\TrainingExcercise1.pdb
+C:\Users\edgeo\source\repos\TrainingExcercise1\obj\Debug\net6.0\TrainingExcercise1.genruntimeconfig.cache
